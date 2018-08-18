@@ -10,3 +10,4 @@ Description of the Html tags used.
 <br>		:    Inserts a single line break
 <hr>		:    Defines a thematic change in the content
 <!--...-->	:    Defines a comment 
+<table> 	:    Creates a table
